@@ -48,11 +48,11 @@ let dsa = "50"
 let resultado = asd == dsa
 console.log(resultado)
 // ===
-resultado = asd === dsa
+//resultado = asd === dsa
 console.log(resultado)
 // !=
 console.log(asd != dsa) //false
-console.log(asd !== dsa) //True
+//console.log(asd !== dsa) //True
 //IMPORTANT the <= >= < > are only for numerial values.
 /**
  * OPERADORES LOGICOS 
